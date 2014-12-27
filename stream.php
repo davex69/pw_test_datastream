@@ -12,6 +12,7 @@ if (!$service) {
     while ($conn = stream_socket_accept($service)) {
         stream_copy_to_stream($src, $conn);
         fclose($conn);
+        rewind($src);
     }
 
     fclose($service);
