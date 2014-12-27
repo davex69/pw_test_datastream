@@ -16,8 +16,13 @@ class DataFilter
             list($val1, $val2, $val3) = explode(' ', trim($line));
 
             if ($val1 + $val2 == $val3) {
-                $logStr = sprintf("%d => %s", $lineNumber, $val3);
-                $log->info($logStr);
+                $logStr = sprintf(
+                    "%s %s %s",
+                    $val1,
+                    $val2,
+                    $val3
+                );
+                $log->info($logStr, [$lineNumber]);
             }
         }
     }
