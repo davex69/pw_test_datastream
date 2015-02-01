@@ -30,5 +30,7 @@ Your Tasks
 
 How to submit your code
 -----------------------
-Your solution must be sent to us as a ZIP archive with the whole files structure (including .git/ directory). DO NOT create public copies/forks of our repository. Any applicant who fails to meet this requirement will be dismissed.
+Your solution must be sent to us as a ZIP archive with the whole files structure in it (including .git/ directory). Create a separate commit for each sub-task (thus you'll submit no less than 3 commits.)
+
+DO NOT create public copies/forks of our repository. Any applicant who fails to meet this requirement will be dismissed.
 
