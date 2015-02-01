@@ -3,7 +3,7 @@ PHP Backend Developer Test Task
 
 Overview
 --------
-This task is to be completed by any applicant who is to apply for the 'PHP Developer' position. Any other application procedures will be conducted only after successful accomplishment of this task.
+This task is to be completed by any applicant who is to apply for the 'Middle/Senior PHP Back-end Developer' position. Any other application procedures will be conducted only after successful accomplishment of this task.
 
 The goal of this task is to match your professional skills against our expectations and requirements. Thus we strongly recommend you to perform this task without any external help using only your knowledge and skills. 
 
@@ -27,4 +27,8 @@ Your Tasks
  1. Refactor existing code as you deem needed.
  2. Make the code memory efficient. For this, uncomment memory limit setting at the beginning of /index.php and make your code run on this low memory.
  3. Add stream data provider. A simple streaming service is included (stream.php). 
+
+How to submit your code
+-----------------------
+Your solution must be sent to us as a ZIP archive with the whole files structure (including .git/ directory). DO NOT create public copies/forks of our repository. Any applicant who fails to meet this requirement will be dismissed.
 
